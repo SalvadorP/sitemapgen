@@ -1,0 +1,8 @@
+{
+    "require": {
+        "symfony/var-dumper": "^3.3",
+        "symfony/finder": "^3.3",
+        "nesbot/carbon": "^1.22",
+        "symfony/filesystem": "^3.3"
+    }
+}
